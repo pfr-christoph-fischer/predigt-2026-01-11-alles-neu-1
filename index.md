@@ -10,9 +10,9 @@ series: Epiphaniaszeit 2026
 summary: Erneuerung beginnt nicht mit Machen, sondern mit Hinsehen auf das, was Gott schon tut.
 source: pfarrplaner
 source_id: "264@planer.pfarr.tools"
-cover: cover.
+cover: alles-neu-1.jpg
 cover_alt: "Titelbild zur Predigt \"Alles neu?\"."
-audio: audio.mp3
+audio: alles-neu-1.mp3
 audio_duration: "17:33"
 legacy_id: 533
 events:
